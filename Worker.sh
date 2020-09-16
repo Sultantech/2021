@@ -52,9 +52,9 @@ echo $me"       ¶¶¶¶                                     ¶¶¶¶"
 echo
 echo
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-echo $i  "AUTHOR   : DICKY FEBRIAN"
-echo $i  "WA       : 085707706430"
-echo $i  "YOUTUBE  : DICKY GT"
+echo $i  "AUTHOR   : SULTAN AHMED"
+echo $i  "WA       : 03113628442"
+echo $i  "YOUTUBE  : Tips 4 You"
 echo $i  "TOOLS    : INSTALLER (7 TOOLS)"
 echo $cy "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo
@@ -79,7 +79,7 @@ echo $cy "[8]"$me" EXIT"
 echo "=================================================="
 echo
 echo
-echo $cy"┌==="$bi"[ DICKY GT ]"
+echo $cy"┌==="$bi"[ SULTAN ]"
 echo $cy"¦"
 read -p">>>" pil;
 
@@ -89,8 +89,7 @@ clear
 pkg install php -y
 pkg install git -y
 pkg install python2 -y
-git clone https://github.com/FR13ND8/BRUTEFORCEnew
-cd BRUTEFORCEnew
+git clone https://github.com/Sultantech/2021
 sh new.sh
 fi
 
@@ -151,7 +150,7 @@ echo $cy"Terima Kasih Sudah Pakai Tool Saya"
 sleep 2
 echo $i"Bila Ada Bug  Bisa Nanya Kepada Saya"
 sleep 2
-echo $i"WhatsApp :"$i" 085707706430"
-echo $bi"Facebook :"$i" Dicky Febrian"
+echo $i"WhatsApp :"$i" 03113628442"
+echo $bi"Facebook :"$i" Sultan Ahmed"
 exit
 fi
